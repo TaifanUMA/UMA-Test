@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>yuumaのホームページ</title>
+</head>
+
+<body>
+ <h1>Yuumaのホームページ 概要</h1>
+  <h2>UMA SONG</h2>
+   <p>準備中</p>
+  <h2>タイファンサイファン3</h2>
+   <p>Gachalifeでストーリーを作っています</p>
+   <p><a href="#">タイファンサイファン3の詳細</a>を見る</p>
+  <h2>Yuumagame</h2>
+   <p>ゲーム実況チャンネルです</p>
+   <p><a href="#">yuumagameの詳細</a>をみる</p>
+</html>
